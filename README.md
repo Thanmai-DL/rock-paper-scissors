@@ -1,2 +1,2 @@
 # tic-tac-toe
-u ain't a real gamer if u haven't played tic-tac-toe with your homie on the last page of your notebook during science class? 
+the true real life battle royale. u ain't a real gamer if u haven't played rock-paper-scissors with your homies to get a victory royale.
