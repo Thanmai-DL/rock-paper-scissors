@@ -28,10 +28,11 @@ h1 {
     font-size: 60px;
 }
 
-.game {
+#game {
     display: flex;
     align-items: center;
     gap: 48px;
+    height: 300px;
 }
 
 .game-text {
